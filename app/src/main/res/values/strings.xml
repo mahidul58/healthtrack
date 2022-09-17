@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Fingerprint Test</string>
+    <string name="authenticated_message">You are now authenticated! mahidul</string>
+    <string name="main_username_hint">Username</string>
+    <string name="main_password_hint">Password</string>
+    <string name="main_fingerprint_icon_content_description">Fingerprint icon</string>
+    <string name="main_login_btn_label">Login</string>
+    <string name="main_register_btn_label">Register</string>
+    <string name="back_title">Back</string>
+    <string name="main_warning_dialog_title">Warning</string>
+    <string name="main_regular_login_dialog_message">Proceed to log in via regular form</string>
+    <string name="main_close_dialog_positive_button">Close</string>
+    <string name="main_error_dialog_title">Error</string>
+    <string name="main_incorrect_username_password_dialog_message">Username/password incorrect</string>
+    <string name="main_fingerprint_dialog_title">Fingerprint Authentication</string>
+    <string name="main_fingerprint_dialog_message">You can now place your finger into the sensor in order to Authenticate to Android OS</string>
+    <string name="main_errors_registration_dialog_message">There were errors during registration process. Try it again</string>
+    <string name="main_register_complete_dialog_title">Register complete</string>
+    <string name="main_register_complete_dialog_message">You have successfully registered</string>
+    <string name="main_empty_username_password_dialog_message">You must enter a valid username/password</string>
+    <string name="main_low_android_version_dialog_message">Android version should be higher than/equals to Marshmallow (6)</string>
+    <string name="main_fingerprint_permission_missing_dialog_message">You should grant Fingerprint permission to this app in order to log in with your fingerprint</string>
+    <string name="main_fingerprint_permission_missing_not_granted_dialog_message">You should grant Fingerprint permission to this app in order to log in with your fingerprint. Continuing with fallback methods</string>
+    <string name="main_no_fingerprint_device_dialog_message">Your hardware does not have any fingerprint sensor. You cannot use this feature</string>
+    <string name="main_no_secure_lockScreen_set_dialog_message">In order to use fingerprint sensor login, your lock screen should be secure (i.e.: Add a pattern)</string>
+    <string name="main_regular_register_dialog_message">Proceed to register via regular form (without keystore)</string>
+    <string name="main_fingerprint_grant_permission_btn_label">Ask for permission</string>
+    <string name="main_no_fingerprints_enrolled_dialog_message">You should at least enroll one fingerprint into the System</string>
+
+    <string name="facharbeit_text">SahiAli</string>
+
+
+    <string name="title_pedometer">step counter</string>
+    <string name="title_acceleration">acceleration</string>
+
+    <string name="pedometer">Step Counter</string>
+    <string name="number_of_steps">Number of steps:</string>
+    <string name="pedometer_running">Step counter running...</string>
+    <string name="pedometer_not_running">Step counter not is off</string>
+    <string name="type_of_step">Type ofstep:</string>
+    <string name="duration_of_step">Duration of step:</string>
+
+    <string name="acitvate_pedometer">Turn on your step counter</string>
+    <string name="disable_pedometer">Disable Step Counter</string>
+
+    <string name="results">Results:</string>
+    <string name="of_the_last_measurement">of the last measurement</string>
+    <string name="total_steps">Total steps</string>
+    <string name="from_that">from that…</string>
+    <string name="walking_steps">Walking steps:</string>
+    <string name="jogging_steps">Joggingsteps:</string>
+    <string name="running_steps">Running steps:</string>
+    <string name="total_distance">Totaldistance:</string>
+    <string name="average_speed">Averagespeed:</string>
+    <string name="average_frequency">Average frequency:</string>
+    <string name="burned_calories">Burned calories:</string>
+    <string name="moving_time">Moving time:</string>
+
+    <string name="walking">walking</string>
+    <string name="jogging">jogging</string>
+    <string name="running">running</string>
+
+    <string name="live_data">live data</string>
+    <string name="graph">Graph</string>
+    <string name="accel_unit" translatable="false">m/s²</string>
+    <string name="milliampere_unit" translatable="false">mA</string>
+    <string name="details">Details</string>
+
+    <string name="name">Name:</string>
+    <string name="manufacturer">manufacturer:</string>
+    <string name="version">Version:</string>
+    <string name="energy">energy:</string>
+    <string name="resolution">resolution:</string>
+    <string name="max_range">max_range:</string>
+    <string name="min_range">min_range:</string>
+    <string name="accuracy">accuracy:</string>
+    <string name="delay">Delay:</string>
+
+
+</resources>
